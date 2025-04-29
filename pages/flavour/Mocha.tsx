@@ -128,7 +128,7 @@ const Mocha = () => {
       localStorage.setItem("myOrders", JSON.stringify(updatedOrders));
       setOrders(updatedOrders);
   
-      router.push("/MyOrder");
+      router.push("/Buy");
     };
   
     return (

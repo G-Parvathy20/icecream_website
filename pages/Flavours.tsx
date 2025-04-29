@@ -19,51 +19,51 @@ const Flavor = () => {
   const flavors = [
     { 
     name: "BlackCurrant", 
-    component: <BlackCurrant /> 
+    component: <BlackCurrant/> 
     },
     { 
     name: "Blueberry", 
-    component: <Blueberry /> 
+    component: <Blueberry/> 
     },
     { 
     name: "Butterscotch", 
-    component: <Butterscotch /> 
+    component: <Butterscotch/> 
     },
     { 
     name: "Chocolate", 
-    component: <Chocolate /> 
+    component: <Chocolate/> 
     },
     { 
     name: "Mango", 
-    component: <Mango /> 
+    component: <Mango/> 
     },
     { 
     name: "Mint", 
-    component: <Mint /> 
+    component: <Mint/> 
     },
     { 
     name: "Mocha", 
-    component: <Mocha /> 
+    component: <Mocha/> 
     },
     { 
     name: "Oat", 
-    component: <Oat /> 
+    component: <Oat/> 
     },
     { 
     name: "Raspberry", 
-    component: <Raspberry /> 
+    component: <Raspberry/> 
     },
     { 
     name: "SaltySweet", 
-    component: <SaltySweet /> 
+    component: <SaltySweet/> 
     },
     { 
     name: "Strawberry", 
-    component: <Strawberry /> 
+    component: <Strawberry/> 
     },
     { 
     name: "Vanilla", 
-    component: <Vanilla /> 
+    component: <Vanilla/> 
     },
   ];
 
