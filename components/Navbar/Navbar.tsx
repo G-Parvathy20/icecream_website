@@ -38,7 +38,7 @@ const Navbar: React.FC = () => {
                         <Link href="#contact" className="text-white hover:bg-yellow-200 hover:text-yellow-600 px-3 py-2 rounded-md text-sm font-medium">
                             Contact Us
                         </Link>
-                        <Link href="/feedback" className="text-white hover:bg-yellow-200 hover:text-yellow-600 px-3 py-2 rounded-md text-sm font-medium">
+                        <Link href="/Feedback" className="text-white hover:bg-yellow-200 hover:text-yellow-600 px-3 py-2 rounded-md text-sm font-medium">
                             Feedback
                         </Link>
                         <Link href="/wishlist" className="text-white hover:bg-yellow-200 hover:text-yellow-600 px-3 py-2 rounded-md text-sm font-medium">
@@ -58,11 +58,11 @@ const Navbar: React.FC = () => {
                                     <SheetDescription>
                                         <div className='flex flex-col space-y-4'>
                                             <Link href="#home" className='text-blue-400'>Home</Link>
-                                            <Link href="/about" className='text-blue-400'>About</Link>
+                                            <Link href="/About" className='text-blue-400'>About</Link>
                                             <Link href="/Flavours" className='text-blue-400'>Flavours</Link>
                                             <Link href="/Myorder" className='text-blue-400'>Myorder</Link>
-                                            <Link href="#contact" className='text-blue-400'>Contact Us</Link>
-                                            <Link href="/feedback" className='text-blue-400'>Feedback</Link>
+                                            <Link href="/Contact" className='text-blue-400'>Contact Us</Link>
+                                            <Link href="/Feedback" className='text-blue-400'>Feedback</Link>
                                             <Link href="/wishlist" className='text-blue-400'>Wishlist</Link>
                                         </div>
                                     </SheetDescription>
